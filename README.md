@@ -1,6 +1,11 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
 
-# ONNX MLIR
+# ONNX MLI
+
+Representación y reducción de referencias de modelos ONNX en la infraestructura del compilador MLIR.
+
+Hola bienvenidos mi nombre es Juan Gómez y este es un proyecto el cual tiene una forma sencilla de empezar a utilizar ONNX-MLIR es utilizar una imagen de la ventana acoplable prediseñada. Estas imágenes se crean como resultado de una combinación de construcción exitosa en el tronco. Esto significa que la última imagen representa la punta del maletero.
+
 The Open Neural Network Exchange implementation in MLIR (http://onnx.ai/onnx-mlir/).
 
 | System      | Build Status |
